@@ -1,2 +1,3 @@
 # hello-world
-Just another respority
+Just another repository
+I'm just here now to learn Rust :)
